@@ -99,6 +99,10 @@ know to check the archived Sourceforge tracker for the missing comment.
 Running small batches will make it easy to re-run just the batch with an error.
 Set $batch_page in config.php to run just one batch again.
 
+*LICENSE*
+
+sftrackerexport is available under the [MIT License]. Please see LICENSE.txt
+
 *CONTACTING ME*
 
 You can reach me at the UFO: Alien Invasion forums under the username "H-Hour",
